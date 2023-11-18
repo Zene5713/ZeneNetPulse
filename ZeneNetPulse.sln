@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeneNetPulse", "ZeneNetPulse.csproj", "{B50D5342-A938-484A-A245-EE3A4C840150}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B50D5342-A938-484A-A245-EE3A4C840150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50D5342-A938-484A-A245-EE3A4C840150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50D5342-A938-484A-A245-EE3A4C840150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50D5342-A938-484A-A245-EE3A4C840150}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C110D7E4-B071-4749-9E97-D0E39581DEEB}
+	EndGlobalSection
+EndGlobal
